@@ -21,16 +21,17 @@
   color: rgba(78, 71, 255, 1);
 }
 
-.btn-primary{
-  background-color:rgba(78, 71, 255, 1);;
+.btn-primary {
+  background-color: rgba(78, 71, 255, 1);
+  ;
   color: white;
   border-radius: 10px;
-  padding: 12px 36px ;
+  padding: 12px 36px;
   border: none;
 
 }
 
-.hero{
+.hero {
   position: relative;
 }
 
@@ -41,56 +42,64 @@
 }
 
 .header-title {
-   position: absolute; 
+  position: absolute;
   top: 20px;
   left: 0;
   width: calc(100% - 300px);
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+
 }
-.margin{
-  margin: 0px 150px ;
+
+.margin {
+  margin: 0px 150px;
 }
-.logo{
+
+.logo {
   font-size: 34px;
   font-weight: 900;
 }
-.Template-title{
+
+.Template-title {
   position: absolute;
   top: 40%;
-  left: 30%;
+  left: 20%;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-align-items: center;
+  align-items: center;
 
 }
-.description-title{
+
+.description-title {
   font-size: 65px;
   font-weight: bold;
   color: rgba(37, 36, 50, 1);
-  
+
 }
-.action-section{
+
+.action-section {
   /* position: absolute; */
   display: flex;
   justify-content: space-between;
   margin-top: 150px;
 }
-.action-title{
+
+.action-title {
   font-size: 42px;
   font-weight: bold;
   color: rgba(37, 36, 50, 1);
 }
-.action-sub-title{
+
+.action-sub-title {
   font-size: 24px;
   font-weight: 500;
   color: rgba(37, 36, 50, 0.5);
 }
-.action-section-image img{
+
+.action-section-image img {
   border-radius: 48px;
-  
+
 }
